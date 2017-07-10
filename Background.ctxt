@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=distance
+comment3.target=Location\ getSafefishLocation(double)
+comment4.params=fish
+comment4.target=void\ populate(int)
+comment5.params=
+comment5.target=int\ maxScore()
+comment6.params=speed
+comment6.target=void\ setSpeed(int)
+comment7.params=
+comment7.target=int\ getSpeed()
+numComments=8
