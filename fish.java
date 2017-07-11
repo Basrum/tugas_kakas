@@ -11,7 +11,7 @@ public class fish extends Actor implements Killabel
     private int moves;
     private int dy;
     private int dx;
-    private static final int THRESHOLD = 1000;
+    private static final int THRESHOLD = 500;
     
     public fish()
     {
